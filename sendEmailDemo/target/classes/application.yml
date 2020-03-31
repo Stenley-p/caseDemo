@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  mail:
+    host: smtp.163.com
+    password: XXPJTIHGPSTCHZLK
+    username: cys0212@163.com
+    default-encoding: UTF-8
